@@ -1,0 +1,5 @@
+﻿  HW2Q1.c
+C:\Users\nvo18\source\repos\HW2Q1\HW2Q1\HW2Q1.c(106,26): warning C4244: '*=': conversion from 'double' to 'unsigned long', possible loss of data
+C:\Users\nvo18\source\repos\HW2Q1\HW2Q1\HW2Q1.c(107,29): warning C4098: 'update_worker': 'void' function returning a value
+C:\Users\nvo18\source\repos\HW2Q1\HW2Q1\HW2Q1.c(117,13): warning C4018: '<': signed/unsigned mismatch
+  HW2Q1.vcxproj -> C:\Users\nvo18\source\repos\HW2Q1\x64\Debug\HW2Q1.exe
